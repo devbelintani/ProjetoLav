@@ -1,2 +1,2 @@
 # projetolav
-Projeto lavanderia e piscina custo e permissão acesso adulto e infantil.
+Projeto Realizado no Portugol, custo utilizar lavanderia por kilo e permissão criança ou adulto utilizar piscina piscina sem acompanhante ou exame médico válido.
